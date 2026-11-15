@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+.env
+.venv/
+venv/
+membros-pesquisa*/
+projetos.csv
+perfil.csv
+frequencia.csv
+retencao.csv
+territorio.csv
+referencia_ibge_cor_raca.csv
